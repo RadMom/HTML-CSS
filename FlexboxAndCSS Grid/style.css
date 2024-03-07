@@ -35,7 +35,6 @@ body {
 
 .product-info {
     margin-top: 20px;
-    flex: 1;
 }
 
 .product-price {
@@ -115,7 +114,6 @@ body {
 
 .product-details {
     margin-top: 20px;
-    flex: 1;
 }
 
 .details-title {
